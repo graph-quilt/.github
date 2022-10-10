@@ -3,7 +3,7 @@
 Graph Quilt is an open architecture for creating a unified graph that aggregates and combines multiple 
 GraphQL APIs.
 
-![Graph Quilt Architecture](../images/arch/basic.png)
+![Graph Quilt Architecture](https://github.com/graph-quilt/.github/blob/main/profile/images/arch/basic.png)
 
 
 Graph Quilt is a unified API aggregation layer that exposes data from multiple sources through a single
