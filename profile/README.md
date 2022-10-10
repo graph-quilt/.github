@@ -6,7 +6,7 @@ GraphQL APIs.
 ![Graph Quilt Architecture](https://github.com/graph-quilt/.github/blob/main/profile/images/arch/basic.png)
 
 
-Graph Quilt is a unified API aggregation layer that exposes data from multiple sources through a single
+Graph Quilt Gateway is a unified API aggregation layer that exposes data from multiple sources through a single
 GraphQL endpoint. It aggregates and combines schemas from dynamically registered sources at runtime 
 into a single GraphQL schema. It will split all incoming queries into multiple sub-queries, 
 orchestrate these sub-queries to appropriate data providers and aggregate providers’ responses into a 
