@@ -9,6 +9,8 @@ into a single GraphQL schema. It will split all incoming queries into multiple s
 orchestrate these sub-queries to appropriate data providers and aggregate providers’ responses into a 
 single response before returning it to the client.
 
+![](../profile/images/arch/graph-quilt-gateway.png)
+
 
 
 
