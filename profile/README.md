@@ -1,6 +1,6 @@
 # Graph Quilt 
 
-Graph Quilt is an open architecture for creating a unified graph that aggregates and combines multiple 
+Graph Quilt is an open architecture from Intuit Inc. for creating a unified graph that aggregates and combines multiple 
 GraphQL APIs.
 
 Graph Quilt Gateway is a unified API aggregation layer that exposes data from multiple sources through a single
